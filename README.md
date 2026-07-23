@@ -16,11 +16,11 @@ Solutions for **42 School C++ Modules CPP05–CPP09**, covering advanced **C++**
 
 | Module | Topics |
 |--------|--------|
-| **[CPP05](https://github.com/nabilac27/42-CPP05-09/tree/main/CPP05)** | Exceptions, canonical form, abstract classes |
-| **[CPP06](https://github.com/nabilac27/42-CPP05-09/tree/main/CPP06)** | Scalar conversion, serialization, RTTI, C++ casts |
-| **[CPP07](https://github.com/nabilac27/42-CPP05-09/tree/main/CPP07)** | Function templates, class templates |
-| **[CPP08](https://github.com/nabilac27/42-CPP05-09/tree/main/CPP08)** | STL containers, iterators, algorithms |
-| **[CPP09](https://github.com/nabilac27/42-CPP05-09/tree/main/CPP09)** | STL, parsing, algorithms, problem solving |
+| **[CPP05](https://github.com/nabilac27/42-CPP05)** | Exceptions, canonical form, abstract classes |
+| **[CPP06](https://github.com/nabilac27/42-CPP06)** | Scalar conversion, serialization, RTTI, C++ casts |
+| **[CPP07](https://github.com/nabilac27/42-CPP07)** | Function templates, class templates |
+| **[CPP08](https://github.com/nabilac27/42-CPP08)** | STL containers, iterators, algorithms |
+| **[CPP09](https://github.com/nabilac27/42-CPP09)** | STL, parsing, algorithms, problem solving |
 
 ---
 
