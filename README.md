@@ -42,7 +42,4 @@ CPP05-09/
 
 © 2026 Nabila C. All rights reserved.
 
-Made with ☕, C++, and many hours of debugging.<br>
-Part of the <strong>42 C++ Modules</strong> curriculum.
-
 </div>
