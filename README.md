@@ -20,7 +20,7 @@ Solutions for **42 School C++ Modules CPP05–CPP09**, covering advanced **C++**
 | **[CPP06](https://github.com/nabilac27/42-CPP06)** | Scalar conversion, serialization, RTTI, C++ casts |
 | **[CPP07](https://github.com/nabilac27/42-CPP07)** | Function templates, class templates |
 | **[CPP08](https://github.com/nabilac27/42-CPP08)** | STL containers, iterators, algorithms |
-| **[CPP09](https://github.com/nabilac27/42-CPP09)** | STL, parsing, algorithms, problem solving |
+| **[CPP09](https://github.com/nabilac27/42-CPP09)** | STL, parsing, algorithms, Merge-insertion sorting algorithm |
 
 ---
 
